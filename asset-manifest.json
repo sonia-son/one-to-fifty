@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/one-to-fifty/static/js/main.c635cabb.chunk.js",
+    "main.js.map": "/one-to-fifty/static/js/main.c635cabb.chunk.js.map",
+    "runtime-main.js": "/one-to-fifty/static/js/runtime-main.cdd25f22.js",
+    "runtime-main.js.map": "/one-to-fifty/static/js/runtime-main.cdd25f22.js.map",
+    "static/js/2.b7178173.chunk.js": "/one-to-fifty/static/js/2.b7178173.chunk.js",
+    "static/js/2.b7178173.chunk.js.map": "/one-to-fifty/static/js/2.b7178173.chunk.js.map",
+    "index.html": "/one-to-fifty/index.html",
+    "static/js/2.b7178173.chunk.js.LICENSE.txt": "/one-to-fifty/static/js/2.b7178173.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd25f22.js",
+    "static/js/2.b7178173.chunk.js",
+    "static/js/main.c635cabb.chunk.js"
+  ]
+}
